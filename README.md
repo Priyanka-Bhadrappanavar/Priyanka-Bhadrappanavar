@@ -1,4 +1,3 @@
-
 # Hi, I'm Priyanka 👋
 
 **Full Stack + AI & Mobile Engineer** — I build scalable enterprise web applications, agentic AI pipelines, and native mobile experiences. Recently Graduated with Masters in Information Systems from  Northeastern University. 
@@ -28,9 +27,9 @@ Previously, I worked as a Software Engineer at L&T Technology Services for 3 yea
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **IKAP** | RAG-backed IT helpdesk copilot automating onboarding resolutions via complex prompt chaining. | Python, TypeScript, React, FastAPI, LangChain, Azure |
-| **HustleHub** | Scalable MERN marketplace with Stripe-based escrow payments and RBAC authentication. | React, TypeScript, Node.js, Express, MongoDB, Redux |
-| **Cloud-Native Web App** | High-availability AWS architecture with zero-downtime CI/CD workflows and 5-minute rolling deployments. | Node.js, PostgreSQL, AWS, Terraform, GitHub Actions |
-| **StudySnap** | AI-powered native iOS application executing on-device OCR and grounded LLM JSON generation. | Swift, UIKit, Vision Framework, CoreData, OpenAI API |
+| [HustleHub](https://github.com/Priyanka-Bhadrappanavar/HustleHub) | Scalable MERN marketplace with Stripe-based escrow payments and RBAC authentication. | React, TypeScript, Node.js, Express, MongoDB, Redux |
+| [Cloud-Native Web App](https://github.com/Priyanka-Bhadrappanavar/webapp)| High-availability AWS architecture with zero-downtime CI/CD workflows and 5-minute rolling deployments. | Node.js, PostgreSQL, AWS, Terraform, GitHub Actions |
+| [StudySnap](https://github.com/Priyanka-Bhadrappanavar/StudySnap) | AI-powered native iOS application executing on-device OCR and grounded LLM JSON generation. | Swift, UIKit, Vision Framework, CoreData, OpenAI API |
 
 ### ⚡ Outside of Code
 
@@ -42,3 +41,4 @@ Previously, I worked as a Software Engineer at L&T Technology Services for 3 yea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-bhadrappanavar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadrappanavar.p@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white)](https://portfolio-vercel-beta-silk.vercel.app/)
